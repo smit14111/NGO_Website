@@ -1,10 +1,15 @@
 # NGO_Website
 A full-stack web application for managing NGO operations — including donors, volunteers, and admins — with role-based access control.
 
-Tech: PHP · MySQL (PDO) · Bootstrap · Sessions
+Tech: 
+PHP 
+· MySQL (PDO) 
+· Bootstrap 
+· Sessions
+
 Key Features:
 
-🔐 Multi-role authentication system (Admin, Donor, Volunteer)
+🔐 Multi-role authentication system (Admin, Donor, Volunteer) \n
 💰 Donor portal: donate money or physical items, view transaction history, and manage profile
 🙋 Volunteer portal: log and manage assigned tasks
 🛡️ Admin dashboard: manage users, oversee donations, and handle volunteer tasks
