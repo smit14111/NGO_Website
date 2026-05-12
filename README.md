@@ -9,7 +9,7 @@ PHP
 
 Key Features:
 
-🔐 Multi-role authentication system (Admin, Donor, Volunteer) \n
+🔐 Multi-role authentication system (Admin, Donor, Volunteer)
 💰 Donor portal: donate money or physical items, view transaction history, and manage profile
 🙋 Volunteer portal: log and manage assigned tasks
 🛡️ Admin dashboard: manage users, oversee donations, and handle volunteer tasks
